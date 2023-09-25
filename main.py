@@ -153,8 +153,8 @@ def web_read(url,tag,speak_language,print_language,Gtts=False,audio_path=os.getc
         
 
 if __name__ == '__main__':
-    path = "Network Vulnerability Assessment - Identify Security Loopholes in Your Network’s Infrastructur.pdf"
-    url = "https://allnovelbook.com/novel/reincarnation-of-the-businesswoman-at-school/chapter-154"
+    path = "Your_pdf_path.pdf"
+    url = "url"
     pages = 18
 
     # pdf_read(path=path, pages=pages, speak_language="hi", print_language="en", Gtts=True)
